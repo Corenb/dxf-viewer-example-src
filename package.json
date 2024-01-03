@@ -1,35 +1,44 @@
 {
-    "name": "dxf-viewer-example",
-    "description": "Example of dxf-viewer package application",
-    "repository": "https://github.com/vagran/dxf-viewer-example",
-    "license": "MIT",
-    "version": "1.0.0",
-    "dependencies": {
-        "vue": "^2.6.14",
-        "quasar": "^1.16.0",
-        "@quasar/extras": "^1.12.1",
-        "dxf-viewer": "^1.0.29",
-        "three": "^0.150.1"
-    },
-    "scripts": {
-        "serve": "vue-cli-service serve --port 9001",
-        "build": "vue-cli-service build --modern"
-    },
-    "devDependencies": {
-        "@vue/cli-service": "^4.5.15",
-        "@vue/cli-plugin-babel": "^4.5.15",
-        "@vue/compiler-dom": "^3.2.41",
-        "vue-template-compiler": "^2.6.14",
-        "less-loader": "^7.3.0",
-        "less": "^4.1.2",
-        "worker-loader": "^3.0.8"
-    },
-    "keywords": [
-        "dxf",
-        "viewer",
-        "javascript",
-        "webgl",
-        "html5",
-        "example"
-    ]
+  "name": "dxf-viewer-example",
+  "description": "Example of dxf-viewer package application",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corenb/dxf-viewer-example.git"
+  },
+  "license": "MIT",
+  "version": "1.0.0",
+  "dependencies": {
+    "vue": "^2.6.14",
+    "quasar": "^1.16.0",
+    "@quasar/extras": "^1.12.1",
+    "dxf-viewer": "^1.0.29",
+    "three": "^0.150.1"
+  },
+  "scripts": {
+    "serve": "vue-cli-service serve --port 9001",
+    "build": "vue-cli-service build --modern"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^4.5.15",
+    "@vue/cli-plugin-babel": "^4.5.15",
+    "@vue/compiler-dom": "^3.2.41",
+    "vue-template-compiler": "^2.6.14",
+    "less-loader": "^7.3.0",
+    "less": "^4.1.2",
+    "worker-loader": "^3.0.8"
+  },
+  "keywords": [
+    "dxf",
+    "viewer",
+    "javascript",
+    "webgl",
+    "html5",
+    "example"
+  ],
+  "bugs": {
+    "url": "https://github.com/vagran/dxf-viewer-example/issues"
+  },
+  "homepage": "https://github.com/vagran/dxf-viewer-example#readme",
+  "main": "babel.config.js",
+  "author": ""
 }
