@@ -3,7 +3,7 @@
 This is example of [dxf-viewer](https://github.com/vagran/dxf-viewer) package application. It is 
 written using [Quasar](https://quasar.dev/) framework for fancy UI.
 
-See demo here: https://corenb.github.io/dxf-viewer-example/
+See demo here: https://corenb.github.io/dxf-viewer-example-src/
 
 Run `npm run build` to build the distribution.
 Run `npm run serve` to run development server.

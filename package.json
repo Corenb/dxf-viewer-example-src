@@ -1,9 +1,9 @@
 {
-  "name": "dxf-viewer-example",
+  "name": "dxf-viewer-example-src",
   "description": "Example of dxf-viewer package application",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/corenb/dxf-viewer-example.git"
+    "url": "git+https://github.com/corenb/dxf-viewer-example-src.git"
   },
   "license": "MIT",
   "version": "1.0.0",
@@ -36,9 +36,9 @@
     "example"
   ],
   "bugs": {
-    "url": "https://github.com/vagran/dxf-viewer-example/issues"
+    "url": "https://github.com/corenb/dxf-viewer-example-src/issues"
   },
-  "homepage": "https://github.com/vagran/dxf-viewer-example#readme",
+  "homepage": "https://github.com/corenb/dxf-viewer-example-src#readme",
   "main": "babel.config.js",
   "author": ""
 }
