@@ -1,5 +1,5 @@
 {
-  "name": "dxf-viewer-example-src",
+  "name": "dxf-viewer-example",
   "description": "Example of dxf-viewer package application",
   "repository": {
     "type": "git",
